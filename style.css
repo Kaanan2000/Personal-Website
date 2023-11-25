@@ -1,0 +1,24 @@
+#intro-hero{
+   background-image: url(./Images/background-image.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+.text-head{
+   font-family: 'Shantell Sans', cursive;
+   color: rgb(255, 255, 255) !important;
+}
+
+.text-hero{
+   font-family: 'Fira Code', monospace;
+   color: rgb(255, 255, 255) !important;
+   font-size: 2rem;
+}
+
+hr {
+   border: dotted #0c0c0c 6px;
+   border-bottom: none;
+   width: 6%;
+   margin: 100px auto;
+}
